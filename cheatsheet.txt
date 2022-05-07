@@ -1,0 +1,7 @@
+terraform plan
+terraform apply  --auto-approve
+terraform destroy  --target resource.localname
+terraform validate
+terraform fmt
+terraform console
+terraform refresh
